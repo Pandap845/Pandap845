@@ -1,4 +1,21 @@
-### Hi there 👋
+## My name is Victor, and I am a software development student in CETI Colomos.
+</br>
+
+# Technologies:
+
+
+</br>
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+</br>
+
+</br>
+
+### In this place, I am going to upload my homeworks and activites.
 
 <!--
 **Pandap845/Pandap845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
