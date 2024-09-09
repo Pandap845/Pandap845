@@ -1,4 +1,4 @@
-## My name is Victor, and I am a software development student in CETI Colomos.
+###  I'm Panda, a college student in ITESO. Studying Computer Systems engineering.
 </br>
 
 # Technologies:
@@ -15,7 +15,7 @@
 
 </br>
 
-### In this place, I am going to upload my homeworks and activites.
+### In this place, I am going to upload my school projects and my activites as a freelancer. 
 
 <!--
 **Pandap845/Pandap845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
